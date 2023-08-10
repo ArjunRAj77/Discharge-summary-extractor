@@ -14,3 +14,4 @@ More info provided in the jupyter notebook.
 ## References
 - [spaCy Visualizers](https://spacy.io/usage/visualizers)
 - [medspacy documentation](https://github.com/medspacy/medspacy)
+- mosby's drug reference 2021
